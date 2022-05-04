@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gapsflat">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gapsflat.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
